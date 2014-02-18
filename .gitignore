@@ -13,3 +13,11 @@ ehthumbs.db
 Icon?
 Thumbs.db
 *.swp
+
+# User themes
+themes/*
+!themes/index.html
+!themes/bootstrap/*
+
+# User config
+config.php
